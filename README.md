@@ -11,7 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [License](#license)
 
 ## Introduction
 
@@ -120,5 +119,5 @@ int main(void)
 You can run tests with external testers or write your own to verify your implementation. Some popular testers include:
 
 - `42FileChecker:` (https://github.com/jgigault/42FileChecker)
-- `LibftTester:` https://github.com/Tripouille/libftTester 
-To use these testers, follow their respective instructions on installation and running tests.
+- `LibftTester:` https://github.com/Tripouille/libftTester
+    To use these testers, follow their respective instructions on installation and running tests.
