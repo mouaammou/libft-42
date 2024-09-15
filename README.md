@@ -76,7 +76,7 @@ To use the library in your projects:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/libft.git
+    git clone https://github.com/mouaammou/libft.git
     ```
 2. Navigate into the project directory:
     ```bash
@@ -115,3 +115,10 @@ int main(void)
     printf("%s\n", str); // Output: !dlroW ,olleH
     return 0;
 }
+```
+## Testing
+You can run tests with external testers or write your own to verify your implementation. Some popular testers include:
+
+- `42FileChecker:` (https://github.com/jgigault/42FileChecker)
+- `LibftTester:` https://github.com/Tripouille/libftTester 
+To use these testers, follow their respective instructions on installation and running tests.
