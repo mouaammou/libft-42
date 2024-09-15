@@ -76,7 +76,7 @@ To use the library in your projects:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mouaammou/libft.git
+    git clone https://github.com/mouaammou/libft-42.git
     ```
 2. Navigate into the project directory:
     ```bash
